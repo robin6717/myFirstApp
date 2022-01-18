@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-image: url('https://cdn.pixabay.com/photo/2017/06/24/23/03/railway-2439189_960_720.jpg');
+    background-size: cover;
+    background-repeat: none;
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 200px;
+    color: white;
+    
+}
+h2 {
+    font-size: 60px;
+    color: white;
+    margin-top: 40px;
+}
+button {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    color: white;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+#increment-btn {
+    background-color: red;
+    margin-top: 50px;
+}
+#save-btn {
+    background-color: green;
+    margin-top: 50px;
+}
